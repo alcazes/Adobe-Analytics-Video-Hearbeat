@@ -21,8 +21,8 @@ function s_doPlugins(s) {
 
 /* You may add or alter any code config here. */
 appMeasurement.debugTracking=true
-//s.trackingServer="[TRACKING SERVER]"
-//s.visitorNamespace="[NAMESPACE]"
+s.trackingServer="[TRACKING SERVER]"
+s.visitorNamespace="[NAMESPACE]"
 
 
 /*
